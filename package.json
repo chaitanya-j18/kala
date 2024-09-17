@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "prettier": "^3.3.3",
+    "pretty-quick": "^4.0.0"
+  },
+  "scripts": {
+    "pretty-quick": "pretty-quick --staged"
+  }
+}
